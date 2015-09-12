@@ -21,5 +21,7 @@ A floating action button is a circular sheet separate from a toolbar. It represe
 
 It can straddle a step if it relates to the content creating that step.
 ##The 9 principles
-###
+###    Material is the metaphor
+
+A material metaphor is the unifying theory of a rationalized space and a system of motion. Our material is grounded in tactile reality, inspired by our study of paper and ink, yet open to imagination and magic.
 
