@@ -43,5 +43,8 @@ User action is the essence of experience design. The primary actions are inflect
 ###   Users initiate change
 
 Changes in the interface derive their energy from user actions. Motion that cascades from touch respects and reinforces the user as the prime mover.
+###  Animation is choreographed on a shared stage
+
+All action takes place in a single environment. Objects are presented to the user without breaking the continuity of experience even as they transform and reorganize.
 
 
