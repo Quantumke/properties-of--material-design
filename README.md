@@ -29,6 +29,9 @@ A material metaphor is the unifying theory of a rationalized space and a system 
 Surfaces and edges provide visual cues that are grounded in our experience of reality. The use of familiar tactile attributes speaks to primal parts of our brains and helps us quickly understand affordances.
 ###     Dimensionality affords interaction
 
-The fundamentals of light, surface, and movement are key to conveying how objects interact. Realistic lighting shows seams, divides space, and indicates moving parts.   
+The fundamentals of light, surface, and movement are key to conveying how objects interact. Realistic lighting shows seams, divides space, and indicates moving parts.
+###  One adaptive design
+
+A single underlying design system organizes interactions and space. Each device reflects a different view of the same underlying system. Each view is tailored to the size and interaction appropriate for that device. Colors, iconography, hierarchy, and spatial relationships remain constant.
 
 
