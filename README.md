@@ -36,5 +36,8 @@ A single underlying design system organizes interactions and space. Each device 
 ###   Content is bold, graphic, and intentional
 
 Bold design creates hierarchy, meaning, and focus. Deliberate color choices, edge-to-edge imagery, large-scale typography, and intentional white space create immersion and clarity.
+###   Color, surface, and iconography emphasize actions
+
+User action is the essence of experience design. The primary actions are inflection points that transform the whole design. Their emphasis makes core functionality immediately apparent and provides waypoints for the user.
 
 
