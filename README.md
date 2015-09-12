@@ -8,3 +8,8 @@ Material Design can be used in Android version 2.1 and up via the v7 appcompat l
 MDL makes it easy to add a material design look and feel to your websites. The “Lite” part of MDL comes from several key design goals: MDL has few dependencies, making it easy to install and use. It is framework-agnostic, meaning MDL can be used with any of the rapidly changing landscape of front-end tool chains. MDL has a low overhead in terms of code size
 ###principes of material design
 Material design is guided by print-based design elements—such as typography, grids, space, scale, color, and imagery—to create hierarchy, meaning, and focus that immerse the user in the experience. Material design adopts tools from the field of print design, like baseline grids and structural templates, encouraging consistency across environments by repeating visual elements, structural grids, and spacing across platforms and screen sizes. These layouts scale to fit any screen size, which simplifies the process of creating scalable apps. 
+ ###  How paper works
+
+In material design, the physical properties of paper are translated to the screen. The background of an application resembles the flat, opaque texture of a sheet of paper.
+
+An application’s behavior mimics the paper’s ability to be re-sized, shuffled, and bound together in multiple sheets. Elements that live outside of applications, such as status or system bars, receive a different treatment. They are separate from the app content beneath them, and do not carry the physical properties of paper.
