@@ -33,5 +33,8 @@ The fundamentals of light, surface, and movement are key to conveying how object
 ###  One adaptive design
 
 A single underlying design system organizes interactions and space. Each device reflects a different view of the same underlying system. Each view is tailored to the size and interaction appropriate for that device. Colors, iconography, hierarchy, and spatial relationships remain constant.
+###   Content is bold, graphic, and intentional
+
+Bold design creates hierarchy, meaning, and focus. Deliberate color choices, edge-to-edge imagery, large-scale typography, and intentional white space create immersion and clarity.
 
 
