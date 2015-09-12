@@ -40,4 +40,8 @@ Bold design creates hierarchy, meaning, and focus. Deliberate color choices, edg
 
 User action is the essence of experience design. The primary actions are inflection points that transform the whole design. Their emphasis makes core functionality immediately apparent and provides waypoints for the user.
 
+###   Users initiate change
+
+Changes in the interface derive their energy from user actions. Motion that cascades from touch respects and reinforces the user as the prime mover.
+
 
