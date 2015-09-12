@@ -13,3 +13,11 @@ Material design is guided by print-based design elements—such as typography, g
 In material design, the physical properties of paper are translated to the screen. The background of an application resembles the flat, opaque texture of a sheet of paper.
 
 An application’s behavior mimics the paper’s ability to be re-sized, shuffled, and bound together in multiple sheets. Elements that live outside of applications, such as status or system bars, receive a different treatment. They are separate from the app content beneath them, and do not carry the physical properties of paper.
+
+### Floating action button
+
+
+A floating action button is a circular sheet separate from a toolbar. It represents a single promoted action.
+
+It can straddle a step if it relates to the content creating that step.
+
