@@ -46,5 +46,8 @@ Changes in the interface derive their energy from user actions. Motion that casc
 ###  Animation is choreographed on a shared stage
 
 All action takes place in a single environment. Objects are presented to the user without breaking the continuity of experience even as they transform and reorganize.
+###  Motion provides meaning
+
+Motion is meaningful and appropriate, serving to focus attention and maintain continuity. Feedback is subtle yet clear. Transitions are efficient yet coherent.
 
 
