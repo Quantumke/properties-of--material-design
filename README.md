@@ -24,4 +24,7 @@ It can straddle a step if it relates to the content creating that step.
 ###    Material is the metaphor
 
 A material metaphor is the unifying theory of a rationalized space and a system of motion. Our material is grounded in tactile reality, inspired by our study of paper and ink, yet open to imagination and magic.
+ ###        Surfaces are intuitive and natural
+
+Surfaces and edges provide visual cues that are grounded in our experience of reality. The use of familiar tactile attributes speaks to primal parts of our brains and helps us quickly understand affordances.
 
